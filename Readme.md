@@ -1,6 +1,5 @@
 **Summary: COVID-19 Detection using Xception with X-ray Images**
 
-The provided code demonstrates a project focused on COVID-19 detection using Xception, a deep learning model, and X-ray images. The code pipeline involves various stages, including data preprocessing, model architecture, training, evaluation, and image prediction. Here's a breakdown of the key components and steps:
 
 1. **Data Preparation:**
    - The code starts by unzipping a dataset containing X-ray images related to COVID-19.
